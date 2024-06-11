@@ -1,3 +1,24 @@
+div{
+    font-family: acumin-pro, "Acumin Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 div.divuno {
     text-align: center;
+    font-size: 90px;
+    line-height: 15.6px;
+    display: flex;
+justify-content: center;
+gap: 40px;
+flex-wrap: wrap;
+}
+footer{
+    text-align: center;
+}
+h1.folio{
+    transform: translate(18px,0);
+}
+div.divdos{
+    margin-left: 100px;
+}
+div.divtres{
+    margin-left: 100px;
 }
