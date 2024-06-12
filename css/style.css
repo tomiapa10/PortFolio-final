@@ -111,3 +111,52 @@ img.barracinco{
 img.barraseis{
     transform: translate(75px,-267px);
 }
+img.torta{
+    height: 25px;
+    transform: translate(100px, -1535px);
+}
+p.fdn{
+    margin-left: 35px;
+}
+p.nrotel{
+    margin-left: 35px;
+}
+p.email{
+    margin-left: 35px;
+}
+img.telefonoo{
+    height: 25px;
+    transform: translate(75px, -1500px);
+}
+img.correo{
+    height: 25px;
+    transform: translate(48px, -1465px);
+}
+img.musica{
+    transform: translate(17px, -1140px);
+    height: 25px;
+}
+img.mando{
+    transform: translate(-10px, -1105px);
+    height: 25px;
+}
+img.pelota{
+    transform: translate(-39px, -1070px);
+    height: 25px;
+}
+img.viajess{
+    transform: translate(-70px, -1039px);
+    height: 25px;
+}
+p.music{
+    margin-left: 35px;  
+}
+p.videog{
+    margin-left: 35px;
+}
+p.sports{
+    margin-left: 35px;
+}
+p.viajes{
+    margin-left: 35px;
+}
