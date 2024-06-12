@@ -3,6 +3,7 @@ div{
 }
 section.seccionuno{
     margin-bottom: 600px;
+    margin-top: 300px;
 }
 section.secciondos{
     margin-bottom: 600px;
@@ -159,4 +160,11 @@ p.sports{
 }
 p.viajes{
     margin-left: 35px;
+}
+div.cursos{
+    text-align: right;
+    transform: translate(-700px, -50px);
+}
+div.divfechas{
+    transform: translate(0,50px);
 }
