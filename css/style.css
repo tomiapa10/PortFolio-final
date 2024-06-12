@@ -22,3 +22,61 @@ div.divdos{
 div.divtres{
     margin-left: 100px;
 }
+div.divcuatro{
+    margin-left: 100px;
+}
+div.divcinco{
+    margin-left: 100px;
+}
+div.divseis{
+    margin-left: 100px;
+}
+div.divsiete{
+    margin-left: 700px;
+    transform: translate(0,-580px);
+}
+img.imguno{
+    height: 50px;
+}
+img.imgdos{
+    height: 50px;
+    transform: translate(0,-50px);
+}
+img.imgtres{
+    height: 50px;
+    transform: translate(0,-100px);
+}
+img.imgcuatro{
+    height: 50px;
+    transform: translate(0,-150px);
+}
+img.imgcinco{
+    height: 50px;
+    transform: translate(0,-200px);
+}
+img.imgseis{
+    height: 50px;
+    transform: translate(0,-250px);
+}
+div.divocho{
+    margin-left: 700px;
+    transform: translate(0,-580px); 
+}
+p.primero{
+    transform: translate(60px,-47px);
+}
+p.segundo{
+    transform: translate(60px,-105px); 
+}
+p.tercero{
+    transform: translate(60px,-157px);
+}
+p.cuarto{
+    transform: translate(60px,-207px);
+}
+p.quinto{
+    transform: translate(60px,-257px);
+}
+p.sexto{
+    transform: translate(60px,-307px);
+}
