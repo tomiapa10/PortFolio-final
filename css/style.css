@@ -1,6 +1,12 @@
 div{
     font-family: acumin-pro, "Acumin Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+section.seccionuno{
+    margin-bottom: 600px;
+}
+section.secciondos{
+    margin-bottom: 600px;
+}
 div.divuno {
     text-align: center;
     font-size: 90px;
@@ -12,6 +18,13 @@ flex-wrap: wrap;
 }
 footer{
     text-align: center;
+}
+footer.footeruno{
+transform: translate(-50px,200px);
+}
+footer.footerdos{
+    text-align: center;
+    transform: translate(-350px,-150px);
 }
 h1.folio{
     transform: translate(18px,0);
@@ -79,4 +92,22 @@ p.quinto{
 }
 p.sexto{
     transform: translate(60px,-307px);
+}
+img.barrauno{
+    transform: translate(60px,5px);
+}
+img.barrados{
+    transform: translate(75px,-255px);
+}
+img.barratres{
+    transform: translate(55px,-63px);
+}
+img.barracuatro{
+    transform: translate(105px,-113px);
+}
+img.barracinco{
+    transform: translate(75px,-110px);
+}
+img.barraseis{
+    transform: translate(75px,-267px);
 }
